@@ -1,0 +1,6 @@
+ItemNameList: list of the itemName of items
+ItemsObjList: list of actual item json obj
+
+Items: list of items, with their itemName being the key
+
+CurrentProjectItems: list of items that are in the current project

@@ -1,0 +1,16 @@
+{
+    itemName: [String],
+    displayName:[String],
+    standardRate: [double],
+    units: [int],
+    qty: [int],
+    includes:[
+        {
+            name:[String],
+            displayName:[String],
+            qty:[int]
+        },
+        ...
+    ]
+
+}
